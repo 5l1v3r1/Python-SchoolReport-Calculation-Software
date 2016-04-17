@@ -1,4 +1,4 @@
-# Python-Grade-Calculation-Software
+# Python School Report Calculation Software
 
 Bu program python dili ile yazilmistir. 
 

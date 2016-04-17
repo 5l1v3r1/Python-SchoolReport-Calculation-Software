@@ -1,6 +1,6 @@
 # Python School Report Calculation Software
 
-Bu program python dili ile yazilmistir. 
+Linux işletim sistemleri için geliştirilmişdir ve python programlama dili ile yazılmışdır. Programın amacı bütün derslerin ortalamasını hesaplamak.
 
 Programin Kullanımı : 
 

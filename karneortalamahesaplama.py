@@ -3,8 +3,6 @@
 
 star = '--------------------------------------------------------------------------------'
 
-print star
-
 karneortalamahesaplama_ico = """
 #########################################################
 #       KARNE ORTALAMA HESAPLAMA - GH0ST S0FTWARE       #

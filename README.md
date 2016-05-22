@@ -8,5 +8,4 @@ Programı kullanmak için dosyanın konumuna giderek python orthesaplama.py yaza
 
 Video : https://www.youtube.com/watch?v=wrgQiVl8MxE
 
-Kaynak Kod: https://github.com/ismailtasdelen/Python-SchoolReport-Calculation-
-Software
+Kaynak Kod: https://github.com/ismailtasdelen/Python-SchoolReport-Calculation-Software
